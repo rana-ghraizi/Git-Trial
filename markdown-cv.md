@@ -2,7 +2,9 @@
 Rana Ghraizi
 ============
 
-> Hey, I'm Rana. I have graduated from the high school and I decided to join Codi-Tech.
+> Hey, I'm Rana. I have graduated from Sawfar Secondary School in LS major and I decided to join Codi-Tech. Kind reminder: "Work Hard, Dream Big, Never Give Up".
+
+<img src="my-profile.jpeg" alt="test" width="200"/>
 
 ----
 
